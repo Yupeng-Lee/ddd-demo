@@ -1,1 +1,1 @@
-# study
+# learn ddd（domain driven development)
